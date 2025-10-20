@@ -1,11 +1,5 @@
 body {
-
-  background-image: url("../images/backgrounds/yourimage.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
   margin: 20px;
   background-color: #f5f5f5;
   color: #333;
